@@ -1,3 +1,0 @@
-package ui;
-
-// ...existing code...
